@@ -2,6 +2,7 @@
 #include <map>
 using namespace std;
 
+// same solution for leetcode 190 
 class Solution {
 public:
     // brute force approach for 16 bit unsigned int
