@@ -1,0 +1,9 @@
+Algos and Data Structures Practiced:
+- Vector
+- Map/unordered map
+- Linked lists
+- Primitive Types
+- Strings
+- Stacks 
+- Two pointer approach
+- Slow fast pointer approach
