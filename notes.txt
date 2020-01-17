@@ -1,9 +1,10 @@
 Algos and Data Structures Practiced:
-- Vector
-- Map/unordered map
+- Vector (arrays)
+- Map/unordered map (hash table)
 - Linked lists
 - Primitive Types
 - Strings
 - Stacks 
 - Two pointer approach
 - Slow fast pointer approach
+- Binary search
