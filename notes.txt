@@ -8,3 +8,11 @@ Algos and Data Structures Practiced:
 - Two pointer approach
 - Slow fast pointer approach
 - Binary search
+- Binary Tree
+    - pre-order traversal: visit root, traverse left subtree, traverse right subtree
+    - in-order traversal: traverse left subtree, vist root, traverse right subtree
+    - post-order traversal: traverse left subtree, traverse right subtree, vist root
+    - level-order traversal: left to right starting from root and moving to next level down
+- Dynamic Programming
+    - Memoization (top-down)
+    - Tabulation (bottom-up)
